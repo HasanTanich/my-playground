@@ -1,0 +1,13 @@
+.header {
+  color: green;
+}
+
+.link {
+  color: pink;
+  font-weight: bold;
+}
+
+.link:active {
+  background-color: var(--active-color) !important;
+  color: black;
+}
